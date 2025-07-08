@@ -4,7 +4,7 @@ layout: home
 
 # Invited Speakers
 
-## [Jørgen Ellegaard Andersen](https://www.sdu.dk/da/forskning/dias/researchers/chairs/joergen-ellegaard-andersen)
+## [Jørgen Ellegaard Andersen](https://portal.findresearcher.sdu.dk/en/persons/jea)
 
 <img src="assets/images/joergen.jpg" alt="Jørgen" height="200"/>
 
