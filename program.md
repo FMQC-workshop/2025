@@ -8,11 +8,11 @@ layout: home
 |-----------|----------------|
 | 8:30–9:00 | *Registration* |
 |-----------|----------------|
-| 9:00–9:50 | [**Invited talk** (Alfons Laarman)](speakers#alfons-laarman) |
+| 9:00–9:50 | [**Invited talk** (Alfons Laarman)](speakers#alfons-laarman):<br>*The Unreasonable Effectiveness of Automated Reasoning in Quantum Computing* |
 |-----------|----------------|
 | 9:50–10:20| *Coffee break* |
 |-----------|----------------|
-|10:20–11:10| [**Invited talk** (John van de Wetering)](speakers#john-van-de-wetering) |
+|10:20–11:10| [**Invited talk** (John van de Wetering)](speakers#john-van-de-wetering):<br>*Picturing Quantum Software* |
 |11:10–11:35| Fatimah Rita Ahmadi and Aleks Kissinger:<br>*The ZX-calculus as a Language for Topological Quantum Computation* |
 |11:35–12:00| Jens Chr. Godskesen:<br>*Model Checking Reachability Properties for Quantum Markov Chains* |
 |-----------|----------------|
@@ -30,4 +30,4 @@ layout: home
 |15:55–16:15| *Coffee break* |
 |-----------|----------------|
 |16:15–16:40| Abhoy Kole and Rolf Drechsler:<br>*Performance Gains in Quantum SAT Solvers Using ESOP Encoding* |
-|16:40–17:30| [**Invited talk** (Lukas Burgholzer)](speakers#lukas-burgholzer) |
+|16:40–17:30| [**Invited talk** (Lukas Burgholzer)](speakers#lukas-burgholzer):<br>*SAT for Quantum: From Circuit Mapping over Clifford Synthesis to Optimal State Preparation for Neutral Atom Architectures* |
