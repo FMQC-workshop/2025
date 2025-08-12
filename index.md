@@ -13,6 +13,10 @@ Workshop on Formal Methods in Quantum Computing
 <p style="text-align: center;font-size:18px">
 August 25, co-located with <a href="https://conferences.au.dk/confest2025">CONFEST 2025</a> in Aarhus
 <br>
+<br>
+<img src="assets/images/new.png" alt="new"/>
+The <a href="program">program</a> now contains links to the papers!
+<br>
 <img src="assets/images/new.png" alt="new"/>
 We accept <a href="call#submission-guidelines">poster submissions</a>!
 </p>
