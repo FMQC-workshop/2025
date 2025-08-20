@@ -6,7 +6,31 @@ layout: home
 
 ## [Jørgen Ellegaard Andersen](https://portal.findresearcher.sdu.dk/en/persons/jea)
 
-<img src="assets/images/joergen.jpg" alt="Jørgen" height="200"/>
+<table class="no-border">
+  <tbody>
+    <tr>
+      <td style="vertical-align:top">
+<strong>Replacing Monte Carlo Simulation with Gaussian Boson Sampling</strong>
+
+<br>
+
+Gaussian Boson Sampling (GBS) is a special purpose quantum computing platform, which can only sample in a certain probability distribution, similarly to Boson Sampling, which was first proposed by Aronson and Arkhipov and proven to be impossible on a classical computer (unless the polynomial hierarchy collapses).
+
+        <details>
+          <summary>
+            (Click for long version)
+          </summary>
+Hamilton and coauthors subsequently showed the same for GBS. We will offer a new practical application of GBS, namely, to estimate Gaussian Expectation Value problems, for which we have established provable exponential speedup over Monte Carlo Simulations under certain assumptions. Computing Gaussian Expectation Values has a number of industrial applications including financial, and various optimization problems, including energy production, drug design and logistics. We will address its advantage, even if our assumptions for exponential speedup do not apply.
+        </details>
+      </td>
+      <td style="width:60px;vertical-align:top;">
+        <p>
+          <img src="assets/images/joergen.jpg" alt="Jørgen" height="200"/>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## [Lukas Burgholzer](https://burgholzer.me/)
 

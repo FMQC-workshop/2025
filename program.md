@@ -18,7 +18,7 @@ layout: home
 |-----------|----------------|
 |12:00–13:30| *Lunch break*  |
 |-----------|----------------|
-|13:30–14:20<br>Chair: Kim G. Larsen | [Jørgen Ellegaard Andersen (**Invited talk**)](speakers#joergen-ellegaard-andersen) |
+|13:30–14:20<br>Chair: Kim G. Larsen | [Jørgen Ellegaard Andersen (**Invited talk**):<br>*Replacing Monte Carlo Simulation with Gaussian Boson Sampling*](speakers#joergen-ellegaard-andersen) |
 |14:20–14:25| Lightning talks |
 |-----------|----------------|
 |14:25–14:40| *Coffee break <u>including poster session</u>* |
