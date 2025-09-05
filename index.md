@@ -5,7 +5,7 @@ layout: home
 # FMQC 2025
 
 <p style="text-align: center;font-size:21px">
-Workshop on Formal Methods in Quantum Computing
+First Workshop on Formal Methods in Quantum Computing
 </p>
 
 <p style="margin-bottom:5mm;"></p>
